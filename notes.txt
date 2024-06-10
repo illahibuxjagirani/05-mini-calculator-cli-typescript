@@ -13,6 +13,8 @@
 
 7. open VS code terminal and copy lines from GitHub and paste into it line by line. ✅
 
-8. commit and push your code
+8. commit and push your code ✅
 
-9. Refresh your repository folder and see all files
+9. Refresh your repository folder and see all files ✅
+
+10. Make any change into your file and push it again and see the changes

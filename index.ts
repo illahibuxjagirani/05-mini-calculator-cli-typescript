@@ -3,6 +3,7 @@
 import inquirer from "inquirer";
 
 // our setup is ready we can start now
+console.log('My new change')
 
 console.log("\nWelcome to our Mini Calculator\n");
 let myLoop = true;
