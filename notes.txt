@@ -1,0 +1,18 @@
+
+1. open your folder in which your project files are present ✅
+
+2. create .gitignore file within your project folder ✅
+
+3. write 'node_modules/' into .gitignore file ✅ .
+
+4. open GitHub website and sign in ✅
+
+5. click on your profile at right side and open 'your repositories' and then on 'New' ✅
+
+6. Give name to your repository and click on 'create repository' ✅
+
+7. open VS code terminal and copy lines from GitHub and paste into it line by line. ✅
+
+8. commit and push your code
+
+9. Refresh your repository folder and see all files
